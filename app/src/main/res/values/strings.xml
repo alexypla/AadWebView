@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AadWebView</string>
+    <string name="archivoSharedPreferences">arShPr</string>
+    <string name="clave1">Usuario</string>
+    <string name="clave2">contraseña</string>
+
+
+    <string name="valorPredeterminado">valor predeterminado: no está</string>
+</resources>
